@@ -1,8 +1,11 @@
 ## Welcome 🦆
 <p align="center">
-  <img src="assets/branding_smolnero.png" alt="smolnero_branding" width="770" style="max-width: 100%; height: auto;" />
+  <img src="assets/branding_smolnero.png" alt="smolnero_branding" width="600" style="max-width: 100%; height: auto;" />
 </p>
 
+<p align="center">
+  <img src="assets/SmolNeroHeader.jpg" alt="smolnero_branding" width="770" style="max-width: 100%; height: auto;" />
+</p>
 
 SmolNero is a philosophical startup rooted in first-principles thinking.
 
