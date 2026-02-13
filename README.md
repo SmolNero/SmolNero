@@ -1,6 +1,6 @@
 ## Welcome 🦆
 <p align="center">
-  <img src="branding_smolnero.png" alt="smolnero_branding" width="770" style="max-width: 100%; height: auto;" />
+  <img src="assets/branding_smolnero.png" alt="smolnero_branding" width="770" style="max-width: 100%; height: auto;" />
 </p>
 
 
