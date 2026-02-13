@@ -1,4 +1,4 @@
-## Hi TEST 👋
+##Welcome 🦆
 
 SmolNero is a philosophical startup rooted in first-principles thinking.
 
