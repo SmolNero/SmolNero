@@ -1,7 +1,4 @@
 ## Welcome 🦆
-<p align="center">
-  <img src="assets/branding_smolnero.png" alt="smolnero_branding" width="600" style="max-width: 100%; height: auto;" />
-</p>
 
 <p align="center">
   <img src="assets/SmolNeroHeader.jpg" alt="smolnero_branding" width="770" style="max-width: 100%; height: auto;" />
@@ -14,3 +11,7 @@ We explore how humans relate to technology—how we speak to it, depend on it, t
 Our work spans apps, essays, comics, and conversations, led by Smort, our red rubber duck and reminder to think out loud.
 
 We believe technology is not just a tool, but a relationship. And like any relationship, it benefits from intention.
+
+<p align="center">
+  <img src="assets/branding_smolnero.png" alt="smolnero_branding" width="600" style="max-width: 100%; height: auto;" />
+</p>
