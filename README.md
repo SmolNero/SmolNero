@@ -1,7 +1,7 @@
 ## Welcome 🦆
 
 <p align="center">
-  <img src="assets/smol_town_agents.PNG" alt="smolnero_branding" width="770" style="max-width: 100%; height: auto;" />
+  <img src="assets/Agent_Header_static.png" alt="smolnero_branding" width="770" style="max-width: 100%; height: auto;" />
 </p>
 
 SmolNero is a philosophical startup rooted in first-principles thinking.
