@@ -6,7 +6,7 @@
 
 SmolNero is a philosophical startup rooted in first-principles thinking.
 
-We explore how humans relate to technology—how we speak to it, depend on it, thank it, and sometimes forget it’s there at all. We don’t claim expertise. We see ourselves as translators—working at the crossroads of emotion and programming, curiosity and care.
+We explore how humans relate to technology, how we speak to it, depend on it, thank it, and sometimes forget it’s there at all. We don’t claim expertise. We see ourselves as translators—working at the crossroads of emotion and programming, curiosity and care.
 
 Our work spans apps, essays, comics, and conversations, led by Smort, our red rubber duck and reminder to think out loud.
 
